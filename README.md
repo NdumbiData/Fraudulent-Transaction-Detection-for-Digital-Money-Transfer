@@ -1,9 +1,9 @@
-💳 Fraudulent Transaction Detection for Digital Money Transfer
+ Fraudulent Transaction Detection for Digital Money Transfer
 
 A machine learning project that detects fraudulent transactions in digital money transfer systems using data analysis and classification models.
 
 
-📌 Overview
+ Overview
 
 This project builds a predictive model to classify transactions as fraudulent or legitimate. It follows a standard ML workflow:
 
@@ -19,7 +19,7 @@ The focus is on handling class imbalance and optimizing fraud detection performa
 
 
 
-🛠 Tech Stack
+ Tech Stack
 
 Python
 
@@ -33,7 +33,7 @@ Jupyter Notebook
 
 
 
-📂 Project Structure
+ Project Structure
 
 Data_Sources_&_Initial_Assesment_.ipynb – Data loading & inspection
 
@@ -43,7 +43,7 @@ EDA_&_Feature_Notebook_(04_features_eda_ipynb).ipynb – EDA & feature engineeri
 
 
 
-📊 Model Evaluation
+ Model Evaluation
 
 Key metrics used:
 
@@ -60,7 +60,7 @@ Accuracy alone is not sufficient due to data imbalance.
 
 
 
-🚀 How to Run
+How to Run
 git clone https://github.com/NdumbiData/Fraudulent-Transaction-Detection-for-Digital-Money-Transfer.git
 cd Fraudulent-Transaction-Detection-for-Digital-Money-Transfer
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
